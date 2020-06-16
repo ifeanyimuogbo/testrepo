@@ -1,0 +1,9 @@
+div{
+    background: goldenrod;
+    color: black;
+    margin: 50px auto;
+    border-radius: 4px;
+    padding: 30px;
+    width: 40%;
+    text-align: center;
+}
